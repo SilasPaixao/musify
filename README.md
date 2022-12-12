@@ -4,7 +4,7 @@
 <p>O projeto proposto no curso de front-end da Labenu simula um site para o streaming de músicas, onde você pode criar playlists e adicionar músicas do youtube nas playlists e poderem ser reproduzidas dentro do próprio site.</p>
 
 <h3>Link<h3>
-  <a href="afraid-amusement.surge.sh" targe="_blank">Musify</a>
+  <a href="www.brave-bone.surge.sh" targe="_blank">Musify</a>
 
 <h3>Ferramentas utilizadas</h3>
 <ul>
